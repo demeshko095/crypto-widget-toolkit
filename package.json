@@ -1,0 +1,22 @@
+{
+  "name": "crypto-widget-toolkit-collection",
+  "version": "1.5.0",
+  "description": "Create cryptocurrency widgets with real-time price updates.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/demeshko095/crypto-widget-toolkit"
+  },
+  "author": "Maxim Berkut",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "lodash": "^4.17.21",
+    "big.js": "^6.0.3",
+    "moment": "^2.29.1"
+  }
+}
